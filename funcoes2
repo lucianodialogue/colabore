@@ -1,0 +1,12 @@
+<?php
+
+function(String msg) {
+
+returne true;
+
+
+}
+
+
+
+?>
