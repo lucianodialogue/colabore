@@ -1,6 +1,19 @@
 <?php
 
-function(String msg) {
+
+//Nova Função adicionada
+
+
+function setIdade(int idade) {
+
+returne true;
+
+
+}
+
+
+//Correção desta Função
+function mensagem(String msg) {
 
 returne true;
 
